@@ -1,0 +1,17 @@
+{
+
+    "manifest_version": 2,
+    "name": "FAM Injector",
+    "version": "1.2.0",
+    "author" : "Gabriel Miller",
+  
+    "description": "",
+
+    "content_scripts": [
+      {
+        "matches": ["*://www.famportal.com.br/fam/pg_portal.php*"],
+        "js": ["inject.js"]
+      }
+    ]
+  
+  }
