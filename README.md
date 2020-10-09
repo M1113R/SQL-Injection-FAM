@@ -129,4 +129,6 @@ adicionar dados nas tabelas (notas, faltas, senhas, etc).
 <br/>
 <br/>
 
+> **@M1113r** :dart: *“A tree is no more valuable than a seed. Both are simply at a different stage in their development.”* — J.R. Rim  :shipit:
 
+  
