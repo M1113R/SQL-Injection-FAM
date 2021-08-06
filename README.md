@@ -1,4 +1,5 @@
 # **SQL Injection - FACULDADE DE AMERICANA**
+#FALHA CORRIGIDA PELO DEPARTAMENTO RESPONSÁVEL
 
 SQL Injection é um método de invasão na qual códigos/comandos SQL são injetados no
 banco de dados através de entradas de dados ou parâmetros. Minha intenção não foi de
